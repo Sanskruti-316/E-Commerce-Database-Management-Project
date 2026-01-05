@@ -4,3 +4,8 @@ insert into e_commerce.review values (3,'best mouse in the world.','4',3,9);
 insert into e_commerce.review values (4,'very comfatabale in size and quality.','4',2,7);
 insert into e_commerce.review values (5,'the size is 128mb pendrive, speed is good.','5',1,1);
 insert into e_commerce.review values (6,'size of kurta and quality is good','2',3,6);
+insert into e_commerce.review values (7,'excellent laptop for coding','5',4,11);
+insert into e_commerce. review values (8,'good sound quality headphones','4',5,12);
+insert into e_commerce.review values (9,'amazing picture quality tv','5',6,13);
+insert into e_commerce.review values (10,'perfect fit jeans','4',7,14);
+insert into e_commerce.review values (11,'beautiful kurti design','3',8,15);
