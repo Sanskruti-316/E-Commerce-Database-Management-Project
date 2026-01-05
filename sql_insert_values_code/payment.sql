@@ -4,3 +4,8 @@ insert into e_commerce.payment values ('online','2023-12-08 18:12:20',3,3,3);
 insert into e_commerce.payment values ('online','2023-12-10 15:45:20',4,2,4);
 insert into e_commerce.payment values ('online','2023-12-10 15:45:20',5,1,5);
 insert into e_commerce.payment values ('online','2023-12-21 16:23:20',6,3,6);
+insert into e_commerce. payment values ('online','2023-12-22 14:35:00',7,4,7);
+insert into e_commerce. payment values ('offline','2023-12-23 11:20:00',8,5,8);
+insert into e_commerce. payment values ('online','2023-12-24 16:50:00',9,6,9);
+insert into e_commerce. payment values ('online','2023-12-25 09:25:00',10,7,10);
+insert into e_commerce. payment values ('offline','2023-12-26 13:55:00',11,8,11);
