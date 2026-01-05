@@ -4,3 +4,8 @@ insert into e_commerce.cart values (3,598,2,3,9);
 insert into e_commerce.cart values (4,2160,6,2,7); 
 insert into e_commerce.cart values (5,250,1,1,1); 
 insert into e_commerce.cart values (6,3830,6,3,6); 
+insert into e_commerce.cart values (7,55000,1,4,11);
+insert into e_commerce.cart values (8,1500,1,5,12);
+insert into e_commerce.cart values (9,35000,1,6,13);
+insert into e_commerce.cart values (10,2400,2,7,14);
+insert into e_commerce.cart values (11,1700,2,8,15);
