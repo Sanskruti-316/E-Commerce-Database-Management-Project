@@ -4,3 +4,8 @@ insert into e_commerce.orderitem values (299,2,3,9);
 insert into e_commerce.orderitem values (360,6,4,7);
 insert into e_commerce.orderitem values (250,1,5,1);
 insert into e_commerce.orderitem values (766,6,6,6);
+insert into e_commerce.orderitem values (55000,1,7,11);
+insert into e_commerce.orderitem values (1500,1,8,12);
+insert into e_commerce.orderitem values (35000,1,9,13);
+insert into e_commerce.orderitem values (1200,2,10,14);
+insert into e_commerce.orderitem values (850,2,11,15);
