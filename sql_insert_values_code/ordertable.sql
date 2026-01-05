@@ -4,3 +4,8 @@ insert into e_commerce.order_table values (3,'2023-12-08 18:12:20',598,'delivery
 insert into e_commerce.order_table values (4,'2023-12-10 15:45:20',2160,'delivery','2023-12-15 11:26:02',2,4); 
 insert into e_commerce.order_table values (5,'2023-12-10 15:45:20',250,'delivery','2023-12-15 11:26:02',1,5); 
 insert into e_commerce.order_table values (6,'2023-12-21 16:23:20',3830,'delivery','2023-12-29 11:35:09',3,6); 
+insert into e_commerce.order_table values (7,'2023-12-22 14:30:00',55000,'delivery','2023-12-25 10:00:00',4,7);
+insert into e_commerce.order_table values (8,'2023-12-23 11:15:00',1500,'delivery','2023-12-26 15:30:00',5,8);
+insert into e_commerce.order_table values (9,'2023-12-24 16:45:00',35000,'not delivery','2023-12-28 12:00:00',6,9);
+insert into e_commerce.order_table values (10,'2023-12-25 09:20:00',2400,'delivery','2023-12-29 14:45:00',7,10);
+insert into e_commerce.order_table values (11,'2023-12-26 13:50:00',1700,'delivery','2023-12-30 11:20:00',8,11);
