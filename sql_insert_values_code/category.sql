@@ -5,4 +5,4 @@ insert into e_commerce.category values (4,'Women`s Fashion','all the brands are 
 insert into e_commerce.category values (5,'Books & Stationery','all types of books, notebooks, pens, etc');
 insert into e_commerce.category values (6,'Sports & Fitness','sports equipment, gym accessories, yoga mats');
 insert into e_commerce.category values (7,'Home & Kitchen','furniture, kitchen appliances, decor items');
-insert into e_commerce. category values (8,'Beauty & Personal Care','cosmetics, skincare, haircare products');
+insert into e_commerce.category values (8,'Beauty & Personal Care','cosmetics, skincare, haircare products');
